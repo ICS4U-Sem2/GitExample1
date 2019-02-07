@@ -1,6 +1,6 @@
 # GitExample1
 First time with Git - learn how to use it.
-ICS3U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
+ICS4U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
 
 You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
 
